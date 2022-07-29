@@ -73,71 +73,71 @@ CMakeFiles/membot.dir/src/chatbot.cpp.o: CMakeFiles/membot.dir/flags.make
 CMakeFiles/membot.dir/src/chatbot.cpp.o: ../src/chatbot.cpp
 CMakeFiles/membot.dir/src/chatbot.cpp.o: CMakeFiles/membot.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/membot.dir/src/chatbot.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/membot.dir/src/chatbot.cpp.o -MF CMakeFiles/membot.dir/src/chatbot.cpp.o.d -o CMakeFiles/membot.dir/src/chatbot.cpp.o -c "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatbot.cpp"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/membot.dir/src/chatbot.cpp.o -MF CMakeFiles/membot.dir/src/chatbot.cpp.o.d -o CMakeFiles/membot.dir/src/chatbot.cpp.o -c "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatbot.cpp"
 
 CMakeFiles/membot.dir/src/chatbot.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/membot.dir/src/chatbot.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatbot.cpp" > CMakeFiles/membot.dir/src/chatbot.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatbot.cpp" > CMakeFiles/membot.dir/src/chatbot.cpp.i
 
 CMakeFiles/membot.dir/src/chatbot.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/membot.dir/src/chatbot.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatbot.cpp" -o CMakeFiles/membot.dir/src/chatbot.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatbot.cpp" -o CMakeFiles/membot.dir/src/chatbot.cpp.s
 
 CMakeFiles/membot.dir/src/chatgui.cpp.o: CMakeFiles/membot.dir/flags.make
 CMakeFiles/membot.dir/src/chatgui.cpp.o: ../src/chatgui.cpp
 CMakeFiles/membot.dir/src/chatgui.cpp.o: CMakeFiles/membot.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/membot.dir/src/chatgui.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/membot.dir/src/chatgui.cpp.o -MF CMakeFiles/membot.dir/src/chatgui.cpp.o.d -o CMakeFiles/membot.dir/src/chatgui.cpp.o -c "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatgui.cpp"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/membot.dir/src/chatgui.cpp.o -MF CMakeFiles/membot.dir/src/chatgui.cpp.o.d -o CMakeFiles/membot.dir/src/chatgui.cpp.o -c "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatgui.cpp"
 
 CMakeFiles/membot.dir/src/chatgui.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/membot.dir/src/chatgui.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatgui.cpp" > CMakeFiles/membot.dir/src/chatgui.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatgui.cpp" > CMakeFiles/membot.dir/src/chatgui.cpp.i
 
 CMakeFiles/membot.dir/src/chatgui.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/membot.dir/src/chatgui.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatgui.cpp" -o CMakeFiles/membot.dir/src/chatgui.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatgui.cpp" -o CMakeFiles/membot.dir/src/chatgui.cpp.s
 
 CMakeFiles/membot.dir/src/chatlogic.cpp.o: CMakeFiles/membot.dir/flags.make
 CMakeFiles/membot.dir/src/chatlogic.cpp.o: ../src/chatlogic.cpp
 CMakeFiles/membot.dir/src/chatlogic.cpp.o: CMakeFiles/membot.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/membot.dir/src/chatlogic.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/membot.dir/src/chatlogic.cpp.o -MF CMakeFiles/membot.dir/src/chatlogic.cpp.o.d -o CMakeFiles/membot.dir/src/chatlogic.cpp.o -c "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatlogic.cpp"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/membot.dir/src/chatlogic.cpp.o -MF CMakeFiles/membot.dir/src/chatlogic.cpp.o.d -o CMakeFiles/membot.dir/src/chatlogic.cpp.o -c "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatlogic.cpp"
 
 CMakeFiles/membot.dir/src/chatlogic.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/membot.dir/src/chatlogic.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatlogic.cpp" > CMakeFiles/membot.dir/src/chatlogic.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatlogic.cpp" > CMakeFiles/membot.dir/src/chatlogic.cpp.i
 
 CMakeFiles/membot.dir/src/chatlogic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/membot.dir/src/chatlogic.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatlogic.cpp" -o CMakeFiles/membot.dir/src/chatlogic.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/chatlogic.cpp" -o CMakeFiles/membot.dir/src/chatlogic.cpp.s
 
 CMakeFiles/membot.dir/src/graphedge.cpp.o: CMakeFiles/membot.dir/flags.make
 CMakeFiles/membot.dir/src/graphedge.cpp.o: ../src/graphedge.cpp
 CMakeFiles/membot.dir/src/graphedge.cpp.o: CMakeFiles/membot.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/membot.dir/src/graphedge.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/membot.dir/src/graphedge.cpp.o -MF CMakeFiles/membot.dir/src/graphedge.cpp.o.d -o CMakeFiles/membot.dir/src/graphedge.cpp.o -c "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/graphedge.cpp"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/membot.dir/src/graphedge.cpp.o -MF CMakeFiles/membot.dir/src/graphedge.cpp.o.d -o CMakeFiles/membot.dir/src/graphedge.cpp.o -c "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/graphedge.cpp"
 
 CMakeFiles/membot.dir/src/graphedge.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/membot.dir/src/graphedge.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/graphedge.cpp" > CMakeFiles/membot.dir/src/graphedge.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/graphedge.cpp" > CMakeFiles/membot.dir/src/graphedge.cpp.i
 
 CMakeFiles/membot.dir/src/graphedge.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/membot.dir/src/graphedge.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/graphedge.cpp" -o CMakeFiles/membot.dir/src/graphedge.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/graphedge.cpp" -o CMakeFiles/membot.dir/src/graphedge.cpp.s
 
 CMakeFiles/membot.dir/src/graphnode.cpp.o: CMakeFiles/membot.dir/flags.make
 CMakeFiles/membot.dir/src/graphnode.cpp.o: ../src/graphnode.cpp
 CMakeFiles/membot.dir/src/graphnode.cpp.o: CMakeFiles/membot.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/membot.dir/src/graphnode.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/membot.dir/src/graphnode.cpp.o -MF CMakeFiles/membot.dir/src/graphnode.cpp.o.d -o CMakeFiles/membot.dir/src/graphnode.cpp.o -c "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/graphnode.cpp"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/membot.dir/src/graphnode.cpp.o -MF CMakeFiles/membot.dir/src/graphnode.cpp.o.d -o CMakeFiles/membot.dir/src/graphnode.cpp.o -c "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/graphnode.cpp"
 
 CMakeFiles/membot.dir/src/graphnode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/membot.dir/src/graphnode.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/graphnode.cpp" > CMakeFiles/membot.dir/src/graphnode.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/graphnode.cpp" > CMakeFiles/membot.dir/src/graphnode.cpp.i
 
 CMakeFiles/membot.dir/src/graphnode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/membot.dir/src/graphnode.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/graphnode.cpp" -o CMakeFiles/membot.dir/src/graphnode.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/davidehrlich/Projects/Udacity Projects/C++/CppND-Memory-Management-Chatbot/src/graphnode.cpp" -o CMakeFiles/membot.dir/src/graphnode.cpp.s
 
 # Object files for target membot
 membot_OBJECTS = \
