@@ -25,6 +25,7 @@ private:
                                           // the class ChatLogic
     //std::vector<GraphNode *> _nodes;
     std::vector<GraphEdge *> _edges;
+    //vector<unique_ptr<GraphEdge>> _edges;
 
     ////
     //// EOF STUDENT CODE

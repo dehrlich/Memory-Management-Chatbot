@@ -5,6 +5,7 @@
 #include <string>
 #include "chatbot.h"
 
+using namespace std;
 
 // forward declarations
 class GraphEdge;
@@ -16,7 +17,8 @@ private:
     ////
 
     // data handles (owned)
-    std::vector<GraphEdge *> _childEdges;  // edges to subsequent nodes
+    //std::vector<GraphEdge *> _childEdges;  // edges to subsequent nodes
+    vector<unique_ptr<GraphEdge>> _childEdges; // edges to subsequent nodes
 
     // data handles (not owned)
     std::vector<GraphEdge *> _parentEdges; // edges to preceding nodes 
@@ -44,7 +46,7 @@ public:
     // proprietary functions
     void AddToken(std::string token); // add answers to list
     void AddEdgeToParentNode(GraphEdge *edge);
-    void AddEdgeToChildNode(GraphEdge *edge);
+    void AddEdgeToChildNode(unique_ptr<GraphEdge> edge);
 
     //// STUDENT CODE
     ////
